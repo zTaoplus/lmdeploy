@@ -1,0 +1,1 @@
+FROM openmmlab/lmdeploy:v0.0.9
